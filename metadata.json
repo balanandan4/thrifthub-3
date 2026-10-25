@@ -1,0 +1,6 @@
+{
+  "name": "ThriftHub - Student Educational Resource Sharing & Reselling",
+  "description": "Student-to-student educational resource sharing and reselling platform for college textbooks, scientific calculators, study materials, and academic essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
